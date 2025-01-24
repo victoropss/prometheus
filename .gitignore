@@ -1,7 +1,5 @@
 *#
 .#*
-/*.yaml
-/*.yml
 *.exe
 
 /prometheus
